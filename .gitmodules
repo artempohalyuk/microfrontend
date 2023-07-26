@@ -1,9 +1,9 @@
 [submodule "angular-main"]
 	path = angular-main
-	url = ./angular-main
+	url = https://github.com/artempohalyuk/angular-main.git
 [submodule "react-auth"]
 	path = react-auth
-	url = ./react-auth
+	url = https://github.com/artempohalyuk/react-auth.git
 [submodule "server"]
 	path = server
-	url = ./server
+	url = https://github.com/artempohalyuk/server.git
